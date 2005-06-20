@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST
+Makefile.PL
+README
+lib/Schedule/Advisory.pm
+t/00base.t
+t/01setpar.t
+META.yml                                 Module meta-data (added by MakeMaker)

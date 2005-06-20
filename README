@@ -1,0 +1,11 @@
+Installation
+------------
+
+Use the usual incantation:
+
+perl Makefile.PL
+make
+make test
+make install
+
+For further information please see the POD in the modules.
